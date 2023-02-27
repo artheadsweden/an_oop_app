@@ -142,5 +142,6 @@ def main():
     print("Monthly Budget:", monthly_budget)
     print("Budget Remaining:", monthly_budget - my_budget.get_total_balance())
 
+
 if __name__ == "__main__":
     main()
